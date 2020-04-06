@@ -121,9 +121,12 @@
     </ClInclude>
     <ClInclude Include="main.h" />
     <ClInclude Include="PrintHeader.h" />
-    <ClInclude Include="ArrayHeap.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="AdjacencyList.h">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -27,12 +27,12 @@
     <ClInclude Include="Except.h">
       <Filter>Header Files\Support</Filter>
     </ClInclude>
-    <ClInclude Include="ArrayHeap.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AdjacencyList.h">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
